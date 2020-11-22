@@ -123,4 +123,5 @@ contrib/devtools/split-debug.sh
 /src/radium13-cli
 /src/radium13d
 /src/radium13-tx
+/src/qt/radium13-qt
 /db-6.2.32*
